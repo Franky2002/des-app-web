@@ -1,0 +1,11 @@
+.nombre h1{
+    background-color: aquamarine;
+    display: inline-block;
+}
+.menu h2{
+    background: rgb(45, 104, 156);
+    display: inline-block;
+    background-color: skyblue;
+    min-width: 200px;
+    color: blue;
+}
