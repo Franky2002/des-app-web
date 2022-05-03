@@ -1,0 +1,72 @@
+body{
+    background-color: bisque;
+}
+p{
+    font-family: sans-serif;
+    color: rgb(100, 68, 8);
+    font-size: 120%;
+}
+img{
+    border-radius: 50%;
+}
+section{
+position: relative;
+flex-direction: end;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bolso1{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.bolso2{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.bolso3{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.bolso4{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.bolso4{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.bolso5{
+    float:left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.Nombre{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
