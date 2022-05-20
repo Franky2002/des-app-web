@@ -35,7 +35,7 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso3{
+.faldas{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -43,7 +43,7 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso4{
+.shorts{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -51,16 +51,8 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso4{
+.acc{
     float: left;
-    margin: 1%;
-    padding: 2%;
-    border-radius: 10%;
-    background-color: rgb(245, 197, 135);
-    border-color: beige;
-}
-.bolso5{
-    float:left;
     margin: 1%;
     padding: 2%;
     border-radius: 10%;
