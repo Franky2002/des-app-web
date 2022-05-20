@@ -19,7 +19,23 @@ h1{
 h2{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.bolso1{
+.camisa1{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 20%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.camisa2{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 20%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.pantalon1{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -27,7 +43,7 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso2{
+.pantalon2{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -35,7 +51,7 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso3{
+.faldas2{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -43,7 +59,7 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso4{
+.faldas3{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -51,7 +67,7 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso4{
+.short1{
     float: left;
     margin: 1%;
     padding: 2%;
@@ -59,14 +75,39 @@ h2{
     background-color: rgb(245, 197, 135);
     border-color: beige;
 }
-.bolso5{
+.short2{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.acc1{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.acc2{
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: rgb(245, 197, 135);
+    border-color: beige;
+}
+.regresar{
     float:left;
     margin: 1%;
     padding: 2%;
     border-radius: 10%;
     background-color: rgb(245, 197, 135);
     border-color: beige;
-}
+    text-decoration: none;
+} 
 .Nombre{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
